@@ -3,7 +3,7 @@ Ohho Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/ohho-project/ohho.svg?branch=master)](https://travis-ci.org/ohho-project/ohho)
 
-https://ohho.org
+https://ohho.company
 
 What is Ohho?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Ohho Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Ohho Core software, see [https://ohho.org](https://ohho.org).
+the Ohho Core software, see [https://ohho.company](https://ohho.company).
 
 License
 -------
