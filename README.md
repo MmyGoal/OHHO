@@ -3,7 +3,7 @@ Ohho Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/ohho-project/ohho.svg?branch=master)](https://travis-ci.org/ohho-project/ohho)
 
-https://ohho.org
+https://ohho.company
 
 What is Ohho?
 ----------------
