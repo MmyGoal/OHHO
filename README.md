@@ -1,14 +1,14 @@
-Ohho Core integration/staging tree
+OHHO Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/ohho-project/ohho.svg?branch=master)](https://travis-ci.org/ohho-project/ohho)
 
-https://ohho.company
+https://ohho.network
 
-What is Ohho?
+What is OHHO?
 ----------------
 
-Ohho is an experimental digital currency that enables instant payments to
+OHHO is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Ohho uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Ohho Core is the name of open source
